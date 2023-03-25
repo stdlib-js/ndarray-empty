@@ -1,7 +1,7 @@
 {
   "name": "@stdlib/ndarray-empty",
   "version": "0.0.0",
-  "description": "Create a zero-filled ndarray having a specified shape and data type.",
+  "description": "Create an uninitialized ndarray having a specified shape and data type.",
   "license": "Apache-2.0",
   "author": {
     "name": "The Stdlib Authors",
@@ -64,6 +64,7 @@
     "@stdlib/assert-instance-of": "^0.0.8",
     "@stdlib/assert-is-ndarray-like": "^0.0.6",
     "@stdlib/bench": "^0.0.12",
+    "@stdlib/buffer-ctor": "^0.0.7",
     "@stdlib/math-base-special-pow": "^0.0.7",
     "@stdlib/ndarray-dtypes": "^0.0.9",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
@@ -94,9 +95,7 @@
     "vector",
     "ndarray",
     "matrix",
-    "fill",
-    "filled",
-    "zeros"
+    "empty"
   ],
   "funding": {
     "type": "opencollective",
