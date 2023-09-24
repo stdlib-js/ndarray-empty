@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import empty from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-empty@deno/mod.js';
+import empty from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-empty@v0.1.0-deno/mod.js';
 ```
 
 #### empty( shape\[, options] )
@@ -132,7 +132,7 @@ var dt = arr.dtype;
 
 ```javascript
 import dtypes from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-dtypes@deno/mod.js';
-import empty from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-empty@deno/mod.js';
+import empty from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-empty@v0.1.0-deno/mod.js';
 
 // Get a list of data types:
 var dt = dtypes();
