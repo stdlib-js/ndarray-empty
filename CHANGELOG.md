@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-30)
+## Unreleased (2026-01-31)
 
 <section class="commits">
 
@@ -12,6 +12,9 @@
 
 <details>
 
+-   [`47088cc`](https://github.com/stdlib-js/stdlib/commit/47088cc299d84289a904dd2e7d2cdf0aee9057aa) - **docs:** fix TSDoc comments example code and return annotation values _(by Philipp Burckhardt)_
+-   [`09ffc3c`](https://github.com/stdlib-js/stdlib/commit/09ffc3c9d3609ca545f2e4509eb81151a10c45b1) - **docs:** fix example code in TS declaration files _(by Philipp Burckhardt)_
+-   [`2c927e4`](https://github.com/stdlib-js/stdlib/commit/2c927e403da0ed8841b6ce19296262a88c9856e0) - **docs:** fix example code in TS declaration files _(by Philipp Burckhardt)_
 -   [`b1d96c9`](https://github.com/stdlib-js/stdlib/commit/b1d96c95fce3e8692ec6cbb4436eacd1943a5528) - **refactor:** use assertion utility _(by Athan Reines)_
 
 </details>
@@ -24,9 +27,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
