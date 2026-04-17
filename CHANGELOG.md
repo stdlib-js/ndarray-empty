@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-08)
+## Unreleased (2026-04-17)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`6d6b9d4`](https://github.com/stdlib-js/stdlib/commit/6d6b9d42d8904ca49fb55e2ca464780573886aa0) - **bench:** refactor to use string interpolation in `@stdlib/ndarray` [(#11446)](https:-/github.com/stdlib-js/stdlib/pull/11446) _(by Karan Anand)_
 -   [`372443f`](https://github.com/stdlib-js/stdlib/commit/372443fe38ff5fac2c1a5214593e4aecbf7e3096) - **refactor:** more strictly enforce dtype and shape constraints and handle dtype instances _(by Athan Reines)_
 -   [`8b2b591`](https://github.com/stdlib-js/stdlib/commit/8b2b591c7511b405d069d9c4361ea3cfd796c4c6) - **refactor:** remove unnecessary offset calculation _(by Athan Reines)_
 
@@ -25,9 +26,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Karan Anand
 
 </section>
 
