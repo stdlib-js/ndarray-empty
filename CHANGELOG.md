@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-19)
+## Unreleased (2026-06-06)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`3116666`](https://github.com/stdlib-js/stdlib/commit/3116666b3e530b2e6fb161924ae4c43cdf02905b) - **docs:** correct TSDoc across `ndarray` TypeScript declarations [(#12635)](https://github.com/stdlib-js/stdlib/pull/12635) _(by Philipp Burckhardt, Athan Reines)_
 -   [`869c9da`](https://github.com/stdlib-js/stdlib/commit/869c9da0b2ec6d3a4f9bfd7806a32eeb9d5c973f) - **bench:** fix swapped dtypes in size benchmarks [(#11648)](https://github.com/stdlib-js/stdlib/pull/11648) _(by Philipp Burckhardt)_
 -   [`6d6b9d4`](https://github.com/stdlib-js/stdlib/commit/6d6b9d42d8904ca49fb55e2ca464780573886aa0) - **bench:** refactor to use string interpolation in `@stdlib/ndarray` [(#11446)](https:-/github.com/stdlib-js/stdlib/pull/11446) _(by Karan Anand)_
 -   [`372443f`](https://github.com/stdlib-js/stdlib/commit/372443fe38ff5fac2c1a5214593e4aecbf7e3096) - **refactor:** more strictly enforce dtype and shape constraints and handle dtype instances _(by Athan Reines)_
