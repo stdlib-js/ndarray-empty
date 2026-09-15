@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-18)
+## Unreleased (2026-09-15)
+
+<section class="features">
+
+### Features
+
+-   [`b116ddc`](https://github.com/stdlib-js/stdlib/commit/b116ddc030b397cc478e69e37cec904d41db4fdf) - add float16 dtype support to `ndarray/empty` [(#15181)](https://github.com/stdlib-js/stdlib/pull/15181)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`b116ddc`](https://github.com/stdlib-js/stdlib/commit/b116ddc030b397cc478e69e37cec904d41db4fdf) - **feat:** add float16 dtype support to `ndarray/empty` [(#15181)](https://github.com/stdlib-js/stdlib/pull/15181) _(by Samarth Kolarkar)_
 -   [`1977f92`](https://github.com/stdlib-js/stdlib/commit/1977f92944b56c40c27b23d74570f2958adc7a39) - **docs:** update documented default value for `submode` option [(#13106)](https://github.com/stdlib-js/stdlib/pull/13106) _(by Philipp Burckhardt)_
 -   [`3116666`](https://github.com/stdlib-js/stdlib/commit/3116666b3e530b2e6fb161924ae4c43cdf02905b) - **docs:** correct TSDoc across `ndarray` TypeScript declarations [(#12635)](https://github.com/stdlib-js/stdlib/pull/12635) _(by Philipp Burckhardt, Athan Reines)_
 -   [`869c9da`](https://github.com/stdlib-js/stdlib/commit/869c9da0b2ec6d3a4f9bfd7806a32eeb9d5c973f) - **bench:** fix swapped dtypes in size benchmarks [(#11648)](https://github.com/stdlib-js/stdlib/pull/11648) _(by Philipp Burckhardt)_
@@ -29,11 +40,12 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Karan Anand
 -   Philipp Burckhardt
+-   Samarth Kolarkar
 
 </section>
 
